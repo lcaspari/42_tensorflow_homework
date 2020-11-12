@@ -1,7 +1,5 @@
 # 42_tensorflow_homework.
 
-- add a new directory (directory has to have a file in it)
-
 ### dump all files into commit 
 #### pushes to the current branch
 - git add .
